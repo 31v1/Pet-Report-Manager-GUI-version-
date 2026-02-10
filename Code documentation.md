@@ -16,3 +16,8 @@ All classes and methods in this project are documented with inline comments.
  * - Raza: solo letras, espacios, apóstrofes o guiones.
  * - Tipo de pelaje: debe ser exactamente "CORTO" o "LARGO".
  */
+ 
+## Style of Documentation
+- Class-level comments: describe responsibility and main logic.
+- Method-level comments: explain parameters, return values, and exceptions.
+- References to official Java documentation are included where relevant.
