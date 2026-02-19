@@ -16,4 +16,3 @@ Minor visual inconsistencies (such as font rendering or component alignment) are
 All images are for **educational and portfolio purposes only**.
 
 ---
-📁 *This folder is part of the [Pet-Report-Manager-GUI-version](https://github.com/31v1/Pet-Report-Manager-GUI-version) repository.*
