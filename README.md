@@ -25,7 +25,7 @@ This project evolves the console-based system into a graphical interface, applyi
 
 ## 🛠️ Technologies
 - Java (NetBeans IDE)
-- Swing GUI (built with NetBeans GUI Builder)
+- Swing GUI (designed visually with NetBeans GUI Builder; understanding of underlying Swing components and event handling.)
 - Object-Oriented Programming (inheritance, polymorphism, encapsulation)
 - File I/O with `FileReader`, `BufferedReader`, `FileWriter`, `BufferedWriter`, `PrintWriter`
 - Exception handling (`IOException`, `NumberFormatException`, etc.)
