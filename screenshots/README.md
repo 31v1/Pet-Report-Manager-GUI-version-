@@ -1,10 +1,17 @@
-This folder contains screenshots of the **Pet Report Manager (GUI version)** project.
+# Screenshots – Pet Report Manager (GUI Version)
 
-These images show the application interface during development and testing.  
-They are useful to understand the layout and flow without running the code.
+This folder contains screenshots of the **Pet Report Manager (GUI version)** application.
 
-> ⚠️ Some screenshots were taken on Linux Mint. Minor visual differences may appear compared to Windows.
+These images show the interface during development and testing. They help understand the layout, data flow, and user interactions without running the code.
+
+## Included screenshots:
+- `petDataEntry.png` – Data entry form with field validations
+- `reportUpdate.png` – Report consultation and editing interface
+- `ReportsQuery.png` – Filtered list of reports by species
+- `SavedReport.png` – Success message after saving a report
+- `ErrorReportNumber.png` – Error handling for duplicate ID
+
+> ⚠️ Some screenshots were taken on **Linux Mint**. Minor visual differences (fonts, window borders) may appear compared to Windows, but functionality is identical.
 
 All images are for **educational and portfolio purposes only**.
-
----
+--
